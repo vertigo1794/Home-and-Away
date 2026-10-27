@@ -4,7 +4,7 @@
 
 An Apple-style landing page that introduces two mobile apps built for the Mobile Application Development course (Semester 4): **Renly** and **Sky Saver**.
 
-**Live site:** https://vertigo1794.github.io/home-and-away/
+**Live site:** https://vertigo1794.github.io/Home-and-Away/
 
 ---
 
@@ -56,8 +56,8 @@ The page switches its colour theme as you scroll (dark, light, Renly, Sky Saver)
 ## Run it locally
 
 ```bash
-git clone https://github.com/vertigo1794/home-and-away.git
-cd home-and-away
+git clone https://github.com/vertigo1794/Home-and-Away.git
+cd Home-and-Away
 python3 -m http.server 5173
 ```
 
